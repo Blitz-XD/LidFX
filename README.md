@@ -56,9 +56,3 @@ This ensures that your laptop won’t accidentally sleep or hibernate while list
 
 - Windows 10 or 11
 - Spotify desktop app installed
-
----
-
-## License
-
-MIT License (or choose your preferred open-source license)
