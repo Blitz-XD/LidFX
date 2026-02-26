@@ -23,7 +23,7 @@ This ensures that your laptop won’t accidentally sleep or hibernate while list
 
 ## Installation
 
-1. **Download** `LidFX.exe` (or compile `LidFX.ahk` using AutoHotkey v2).  
+1. **Download** `LidFX.exe`.  
 2. **Run** LidFX. On first run, it captures your current lid and sleep settings as “original values.”  
 3. **Optional:** To have LidFX run automatically on Windows startup:
    - Press `Win + R`, type `shell:startup`, and press Enter.
