@@ -42,6 +42,27 @@ This ensures that your laptop won’t accidentally sleep or hibernate while list
 
 ---
 
+## Important Note About Power Settings
+
+On first run, the script saves your current lid and sleep settings to a .ini file.
+When Spotify stops playing, those saved values are restored automatically.
+
+If you manually change your Windows lid or sleep settings while the script is running, your changes may be overwritten.
+
+To permanently change your lid or sleep behavior:
+
+Exit the script completely.
+
+Delete the generated .ini file.
+
+Adjust your Windows power settings.
+
+Run the script again if desired.
+
+This ensures the script captures your updated settings correctly.
+
+---
+
 ## Safety Notes
 
 - Works on Windows 10 and 11.
